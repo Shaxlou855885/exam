@@ -83,7 +83,7 @@ align-items: center;
 
 .section-first {
     height: 554px;
-    background-image: url(/img/Bg.png);
+    background-image: url(img/Bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
